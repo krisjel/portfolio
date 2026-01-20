@@ -1,0 +1,40 @@
+:root {
+  /* Brand */
+  --color-primary: #1f6f63;
+  --color-primary-hover: #195f55;
+
+  --color-secondary: #58a396;
+  --color-secondary-hover: #e6f3f1;
+
+  --color-tertiary: #c4fcf0;
+
+  /* UI */
+  --color-bg: #f8fafc;
+  --color-card: #ffffff;
+  --color-border: #e2e8f0;
+
+  /* Text */
+  --color-text-main: #0f172a;
+  --color-text-body: #334155;
+  --color-text-muted: #64748b;
+}
+[data-theme='dark'] {
+  /* Brand */
+  --color-primary: #2aae98;
+  --color-primary-hover: #249b87;
+
+  --color-secondary: #6fc2b4;
+  --color-secondary-hover: #043a35;
+
+  --color-tertiary: #0f766e;
+
+  /* UI */
+  --color-bg: #020617;
+  --color-card: #020617;
+  --color-border: #1e293b;
+
+  /* Text */
+  --color-text-main: #e5e7eb;
+  --color-text-body: #cbd5e1;
+  --color-text-muted: #94a3b8;
+}
